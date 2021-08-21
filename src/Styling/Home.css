@@ -1,0 +1,28 @@
+.homeHero_butttonContainer{
+    display: flex;
+    padding-bottom: 5%;
+}
+
+.homeHero_txtContainer{
+    padding-top: 15vh;
+}
+
+.homHero-subStyle{
+    color: black;
+}
+
+.blk-bg {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.gry-bg{
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+.txt-color-main{
+    color: white;
+}
+
+.txt-color-blk{
+    color: black;
+}
